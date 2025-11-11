@@ -1,0 +1,5 @@
+﻿Derleme şu saatte başlatıldı: 14:57...
+1>------ Derleme başladı: Proje: Tarantula_MTSK, Yapılandırma: Release x86 ------
+1>  Tarantula_MTSK -> C:\MTSK\Tarantula_MTSK\Tarantula_MTSK\Tarantula_MTSK\bin\x86\Release\Tarantula_MTSK.exe
+========== Derleme: 1 başarılı, 0 başarısız, 0 güncel, 0 atlandı ==========
+========== Derleme şu saatte tamamlandı: 14:57 ve 06,104 saniye sürdü ==========
