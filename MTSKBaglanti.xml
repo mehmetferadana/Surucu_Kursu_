@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<ServerAyar>
+	<Sunucu>(LocalDB)\MSSQLLocalDB</Sunucu>
+	<BaglantiTuru>AttachDbFilename</BaglantiTuru>
+	<KullaniciAdi></KullaniciAdi>
+	<!-- Boş bırakabilirsiniz, Integrated Security var -->
+	<Parola></Parola>
+	<!-- Boş bırakabilirsiniz -->
+	<VeritabaniAdi>C:\MTSK\Tarantula_MTSK\Tarantula_MTSK\Tarantula_MTSK\Database\PROX_A_MTSK_2162.mdf</VeritabaniAdi>
+</ServerAyar>
