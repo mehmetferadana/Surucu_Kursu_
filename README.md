@@ -5,7 +5,7 @@ SQL SERVERLA HAZIRLANMIŞTIR
 
 ![Server_ayar](https://github.com/user-attachments/assets/d8ed07e2-a48e-432d-b6c4-9f2bdebbedd9)
 
-# Su![Uploading Server_ayar.JPG…]()
+
 _
 Mtsk için derlenen program
 ![Form_Giris](https://github.com/user-attachments/assets/c346f64d-2885-4959-a77f-6ab2ccf218eb)
@@ -17,3 +17,4 @@ ama](https://github.com/user-attachments/assets/e3a34f7e-99a5-4f70-851a-c055c40a
 
 Sql veritabanlı yapılmıştır
 ![EvrakListesi](https://github.com/user-attachments/assets/8d8f94fb-a951-4e7d-a819-3cfb6c0f9689)
+![mebbis2](https://github.com/user-attachments/assets/6f0e4b07-62a6-4e1f-89f2-23cfd0a685f6)
